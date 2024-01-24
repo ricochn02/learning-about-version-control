@@ -1,2 +1,2 @@
 # Learning about Version Control
-Rico Chan 
+Author: Rico Chan 
